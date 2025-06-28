@@ -308,7 +308,7 @@ function MyPage() {
 
 如有问题或建议，请通过以下方式联系：
 
-- 邮箱: contact@example.com
+- 邮箱: adobePs9920@outlook.com
 - GitHub Issues: [提交问题](https://github.com/VH992098059/general-template/issues)
 
 ---
